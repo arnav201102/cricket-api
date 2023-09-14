@@ -1,6 +1,5 @@
 # workindia
 
-```markdown
 # Cricket Match Management API
 
 The Cricket Match Management API is a Flask-based web application designed to manage cricket match data, teams, players, and more. It provides endpoints for registering admin users, managing matches, and retrieving match schedules.
