@@ -24,7 +24,7 @@ The Cricket Match Management API is a Flask-based web application designed to ma
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/cricket-api.git
+   git clone https://github.com/yourusername/workindia.git
    ```
 
 2. Install the required dependencies using pip:
